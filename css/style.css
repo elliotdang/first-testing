@@ -1,0 +1,56 @@
+/*div{
+    left: 100px;
+} */
+
+body {
+    background-color: #ebe1d6;
+    height: 1000px;
+    position: relative;
+    text-align: left;
+    padding: 40px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 12pt;
+}
+
+h1 {
+    text-align: center;
+    font-family: Impact;
+    
+}
+
+
+.menu-area {
+    position: fixed;
+    text-align: center;
+    
+}
+
+#huh-cat {
+    padding: 15%;
+    position: relative;
+
+}
+
+.p{
+    height: fit-content;
+}
+
+.info{
+    position: relative;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+img{
+    max-width: 40%;
+    max-height: 40%;
+    object-fit: contain; 
+    align-content: center;
+    margin-left: 12%;
+    }
+
+.active{
+    height: 100vh;
+}
+
